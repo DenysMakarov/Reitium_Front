@@ -11,6 +11,8 @@ function AddEditUser() {
         event.preventDefault()
     }
 
+    console.log('asdasd')
+
     return (
         <section>
             <div className='pa-30'>
